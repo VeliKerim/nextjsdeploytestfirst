@@ -13,8 +13,8 @@
   },
   "scripts": {
     "dev": "next",
-    "start": "next build",
-    "build": "next start"
+    "build": "next build",
+    "start": "next start"
   },
   "eslintConfig": {
     "extends": "react-app"
